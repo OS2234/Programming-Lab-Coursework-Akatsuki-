@@ -37,7 +37,7 @@ Toxic Words List.txt and Stop Words List.txt can be opened and configured, howev
    toxic_phrase2
    severity (mild/moderate/severe)
 
-   toxic_phrase2
+   toxic_phrase3
    severity (mild/moderate/severe)
 
 2) In Stop Words List.txt, the format is as follows:
