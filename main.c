@@ -101,7 +101,7 @@ int main()
             // clear screen
             system("cls");
 
-            printf("Please enter file name of the text file (.csv / .txt) to be analyzed\n"
+            printf("Please enter file name of the text file (.txt) to be analyzed\n"
                    "Please make sure the the text file is located within the same directory as the program folder\n");
 
             fgets(textfilename, sizeof(textfilename), stdin);
@@ -454,4 +454,5 @@ int main()
         }
     }
 }
+
 
