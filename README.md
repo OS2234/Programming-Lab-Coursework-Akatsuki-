@@ -9,7 +9,15 @@ Requirements
 2) Visual Studio Code
 3) Toxic Words List.txt (provided)
 4) Stop Words List.txt (provided)
-5) Any .txt file to be analyzed (< 1 MB) 
+5) Any .txt file to be analyzed (< 1 MB)
+
+Dependencies
+1) input.h
+2) analysis.h
+3) stats.h
+4) utils.h
+5) myhashmap.h
+6) output.h
 
 How to compile and run :
 1) Open main.c using VS Code
@@ -34,10 +42,10 @@ Toxic Words List.txt and Stop Words List.txt can be opened and configured, howev
    
    toxic_phrase1
    severity (mild/moderate/severe)
-
+   (empty line)
    toxic_phrase2
    severity (mild/moderate/severe)
-
+   (empty line)
    toxic_phrase3
    severity (mild/moderate/severe)
 
