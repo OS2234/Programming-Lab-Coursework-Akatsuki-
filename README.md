@@ -26,6 +26,9 @@ How to compile and run :
 4) On the top right corner of the code panel, click the play icon and select "Run C/C++ file" -> "C/C++:gcc.exe build and debug active file"
 5) Program will start running
 6) Minimize VS Code and open "main.exe"
+7) Load the file name of yout input text file when prompted in option 1 and begin analysis in option 2
+
+(optional)Test file.txt” has been provided as an example input text file to be loaded , it can be used if user has no input text file of their own
 
 *Alternative Method:
 1) Open main.c using VS Code
